@@ -18,8 +18,8 @@ body {
 
 .main {
   overflow: hidden;
-  height: 100px;
-  margin: 100px auto;
+  height: auto;
+  margin: auto;
   text-align: center;
 }
 
