@@ -31,3 +31,11 @@ button {
   color: black;
   outline: 0;
 }
+
+button:hover {background-color: #3389ff}
+
+button:active {
+  background-color: #3389ff;
+  box-shadow: 0 5px #003780;
+  transform: translateY(4px);
+}
