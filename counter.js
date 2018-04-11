@@ -6,6 +6,6 @@ var button = document.getElementById('clickme');
 button.onclick = function() {
 
   count = count + 5;
-  button.innerHTML = "You Deposited: " + count + " min";
+  button.innerHTML = "Bank Closed";
 
 };
